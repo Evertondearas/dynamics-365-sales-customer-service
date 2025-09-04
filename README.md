@@ -1,10 +1,15 @@
 Academia de Talentos L3 - Projeto Final
 
-Visão Geral: Um resumo do projeto (o que a Contoso Solutions é, e qual era o problema deles).
+Visão Geral: Imagine chegar a uma feira de negócios, conversar com um agente virtual que entende
+seu problema em segundos e, em menos de dois cliques, ser encaminhado para o
+vendedor certo, já munido de todas as informações necessárias para propor a solução
+ideal. Essa é a realidade que a Contoso Solutions — nossa empresa-laboratório fictícia
+de IoT — passou a viver depois de modernizar seu funil comercial com Dynamics 365
+Sales, Copilot Studio e Power Automate.
 
-Tecnologias Utilizadas: Liste as ferramentas, como Dynamics 365 Sales, Customer Service, Power Automate, Copilot Studio, power apps, Dataverse, powerFX.
+Tecnologias Utilizadas:Dynamics 365 Sales, Customer Service, Power Automate, Copilot Studio, power apps, Dataverse, powerFX.
 
-Funcionalidades Implementadas: Crie uma lista de tópicos que detalhe os principais recursos que você criou, como:
+Funcionalidades Implementadas:
 
 Gestão do ciclo de vendas (Leads, Oportunidades, Contas).
 
@@ -14,4 +19,4 @@ Criação e gestão de ocorrências (Cases) e SLAs.
 
 Regras de negócio e artigos de conhecimento.
 
-Resultados: Mencione os resultados esperados, como a redução do tempo de resposta e o aumento da visibilidade do funil.
+Resultados: Redução do tempo de resposta e o aumento da visibilidade do funil.
