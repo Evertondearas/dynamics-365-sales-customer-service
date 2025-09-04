@@ -2,7 +2,7 @@ Academia de Talentos L3 - Projeto Final
 
 Visão Geral: Um resumo do projeto (o que a Contoso Solutions é, e qual era o problema deles).
 
-Tecnologias Utilizadas: Liste as ferramentas, como Dynamics 365 Sales, Customer Service, Power Automate, Copilot Studio, etc.
+Tecnologias Utilizadas: Liste as ferramentas, como Dynamics 365 Sales, Customer Service, Power Automate, Copilot Studio, power apps, Dataverse, powerFX.
 
 Funcionalidades Implementadas: Crie uma lista de tópicos que detalhe os principais recursos que você criou, como:
 
